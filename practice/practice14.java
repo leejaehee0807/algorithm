@@ -1,0 +1,14 @@
+package practice;
+
+public class practice14 {
+    public int solution(int n){
+        int answer =0;
+        int i=0;
+        for ( i=1; i<n/2+1; i++){
+            if ( n % i ==0 ){
+                answer += i;
+            }
+        }
+        return answer+n;
+    }
+}
