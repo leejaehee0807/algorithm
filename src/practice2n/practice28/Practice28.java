@@ -20,7 +20,7 @@ numbers	result
 1, 2, 3이 numbers에 없으므로, 1 + 2 + 3 = 6을 return 해야 합니다.
 *
 * */
-package practice28;
+package practice2n.practice28;
 
 public class Practice28 {
     public int solution(int[] numbers) {

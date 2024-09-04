@@ -20,7 +20,7 @@ a와 b의 내적은 1*(-3) + 2*(-1) + 3*0 + 4*2 = 3 입니다.
 
 a와 b의 내적은 (-1)*1 + 0*0 + 1*(-1) = -2 입니다.
 * */
-package practice32;
+package practice3n.practice32;
 
 public class Practice32 {
     public int solution(int[] a, int[] b) {

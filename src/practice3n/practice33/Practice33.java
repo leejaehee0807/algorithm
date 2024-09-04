@@ -31,7 +31,7 @@ left	right	result
 27	1, 3, 9, 27	4
 따라서, 24 - 25 + 26 + 27 = 52를 return 해야 합니다.
 * */
-package practice33;
+package practice3n.practice33;
 
 public class Practice33 {
     public int solution(int left, int right) {

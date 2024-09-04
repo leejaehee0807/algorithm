@@ -21,7 +21,7 @@ signs가 [true,false,true] 이므로, 실제 수들의 값은 각각 4, -7, 12�
 
 signs가 [false,false,true] 이므로, 실제 수들의 값은 각각 -1, -2, 3입니다.
 따라서 세 수의 합인 0을 return 해야 합니다.*/
-package practice26;
+package practice2n.practice26;
 
 public class practice26 {
     public int solution(int[] absolutes, boolean[] signs) {

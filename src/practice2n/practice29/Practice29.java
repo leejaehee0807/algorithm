@@ -12,9 +12,7 @@ arr	return
 [4,3,2,1]	[4,3,2]
 [10]	[-1]
 * */
-package practice29;
-
-import java.util.Arrays;
+package practice2n.practice29;
 
 public class Practice29 {
     public int[] solution(int[] arr) {

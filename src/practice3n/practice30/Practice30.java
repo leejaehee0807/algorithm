@@ -9,7 +9,7 @@ s는 길이가 1 이상, 100이하인 스트링입니다.
 s	return
 "abcde"	"c"
 "qwer"	"we" */
-package practice30;
+package practice3n.practice30;
 
 public class Practice30 {
     public String solution(String s) {

@@ -9,7 +9,7 @@ n은 길이 10,000이하인 자연수입니다.
 n	return
 3	"수박수"
 4	"수박수박"*/
-package practice31;
+package practice3n.practice31;
 
 public class Practice31 {
     public String solution(int n) {

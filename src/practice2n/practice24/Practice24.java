@@ -11,7 +11,7 @@
 //입출력 예
 //seoul	return
 //["Jane", "Kim"]	"김서방은 1에 있다"
-package practice24;
+package practice2n.practice24;
 
 
 public class Practice24 {

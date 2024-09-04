@@ -10,7 +10,7 @@ phone_number는 길이 4 이상, 20이하인 문자열입니다.
 phone_number	return
 "01033334444"	"*******4444"
 "027778888"	"*****8888"*/
-package practice27;
+package practice2n.practice27;
 
 public class Practice27 {
     public String solution(String phone_number) {
