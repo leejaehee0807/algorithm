@@ -27,9 +27,12 @@ package practice4n;
 public class Practice40 {
     public int solution(int n) {
         int answer = 0;
+
         StringBuffer result = new StringBuffer();
+
         result.append(Integer.toString(n,3));
         result = result.reverse();
+
         answer=Integer.parseInt(result.toString(),3);
         return answer;
     }
